@@ -2,7 +2,8 @@
 
 Weave us a tale, and the Bard will write a poem.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://poet-writer
+.streamlit.app/)
 
 ### How to run it on your own machine
 
