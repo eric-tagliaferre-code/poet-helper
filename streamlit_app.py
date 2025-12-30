@@ -3,8 +3,8 @@ from openai import OpenAI
 
 
 import streamlit as st
-st.set_page_config(page_title="Poet Helper")
-st.title('Poet Helper')
+st.set_page_config(page_title="Poet Writer")
+st.title('Poet Writer')
 
 openai_api_key = st.sidebar.text_input('OpenAI API Key')
 

@@ -1,4 +1,4 @@
-# 🪄 Poet Helper
+# 🪄 Poet Writer
 
 Weave us a tale, and the Bard will write a poem.
 
