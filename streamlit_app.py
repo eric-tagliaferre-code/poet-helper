@@ -24,7 +24,7 @@ user_input = st.text_area("Enter your text here", height=200)
 if st.button('Send to the Bard'):
     
     if not openai_api_key.startswith('sk-'):
-        st.warning('Enter your OpenAI API key', icon='⚠')
+        st.warning('Enter your OpenAI API key (top left)', icon='⚠')
     
     if user_input and openai_api_key.startswith('sk-'):
         # Make an API call to OpenAI with the user input
